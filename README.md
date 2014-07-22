@@ -1,7 +1,7 @@
 FM-Radar
 ========
 
-Weather radar from FM radio stations.
+Weather radar from FM radio stations. Check out [this blog post](http://pmm223.kinja.com/homemade-radar-1516453578) about it.
 
 ========
 
